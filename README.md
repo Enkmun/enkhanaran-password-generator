@@ -1,5 +1,7 @@
 # enkhanaran-password-generator
-# Acceptance
+
+## Acceptance
+
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -15,7 +17,9 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
-#User
+
+##User
+
 When click on generate password
 Then prompt display appear
 When select length press OK
@@ -31,7 +35,6 @@ Then your secure password displayed
 
 ![Screenshot 2023-12-06 003543](https://github.com/Enkmun/enkhanaran-password-generator/assets/147563607/3c061e6a-9471-4bb8-8cb3-a96db67e37b2)
 ![Screenshot 2023-12-06 003529](https://github.com/Enkmun/enkhanaran-password-generator/assets/147563607/abc2464c-369e-4ff6-be24-fd3f4f08821f)
-#Code
-HTML
-![Screenshot 2023-12-06 004111](https://github.com/Enkmun/enkhanaran-password-generator/assets/147563607/f1dbdce0-7366-479a-86c0-eeb50d0f573b)
-enkhn
+#Live site
+ site is live at https://enkmun.github.io/enkhanaran-password-generator/
+
